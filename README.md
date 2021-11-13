@@ -7,3 +7,7 @@
 
 ### My code may not be the best as this is my first attempt on a pet project so please be lenient.
 ### As for the token and the chat_id just follow https://www.youtube.com/watch?v=MXz4Hizz9ds&list=LL&index=34&t=208s first 7mins of the video.
+
+
+### Screen shot of Telegram desktop version
+![](Screenshot%202021-11-13%20151756.png)
